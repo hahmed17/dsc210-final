@@ -48,9 +48,9 @@ from tensorly.decomposition import tensor_train
 ```
 ### Directions:
 
-To run and check the evaluation of CP Decomposition, run the `cp_decomp_results.ipynb`
+To run and check the evaluation of CP Decomposition, run the cells of `cp_decomp_results.ipynb`
 
-To run and check the evaluation of Tensor Train Decomposition, `run the tt_decomp.ipynb`
+To run and check the evaluation of Tensor Train Decomposition, run the cells of `tt_decomp.ipynb`
 
 ## Results
 ### CP Decomposition:
