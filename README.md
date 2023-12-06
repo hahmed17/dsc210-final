@@ -16,6 +16,7 @@ import matplotlib.pyplot as plt
 import cv2
 from tensorly import tt_to_tensor
 from tensorly.decomposition import tensor_train
+```
 
 To run and check the evaluation of CP Decomposition, run the `cp_decomp_results.ipynb`
 
